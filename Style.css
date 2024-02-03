@@ -1,0 +1,115 @@
+h1,
+h2,
+h3 {
+  color: #1098ad;
+}
+
+h1 {
+  font-size: 26px;
+
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 49px;
+}
+p {
+  font-size: 22px;
+  line-height: 1.5;
+}
+h3 {
+  font-size: 30px;
+}
+h4 {
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+li {
+  font-size: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+li {
+  font-family: sans-serif;
+}
+
+/*footer p {
+  font-size: 16px;
+}*/
+
+/*article header p {
+  font-style: italic;
+}*/
+
+#author {
+  font-style: italic;
+  font-size: 18px;
+}
+#copyright {
+  font-size: 16px;
+}
+.related-author {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/*ul {
+  list-style: none;
+}*/
+
+.List-ul {
+  list-style: none;
+}
+
+.main-header {
+  background-color: #f7f7f7;
+}
+
+aside {
+  background-color: #f7f7f7;
+  border-top: 5px solid #1098ad;
+  border-bottom: 5px solid #1098ad;
+}
+
+/*body {
+  background-color: rgb(43, 226, 113);
+}*/
+
+/*    ........pseudo classes.
+li:first-child {
+  font-weight: bold;
+}
+li:last-child {
+  font-style: italic;
+}
+li:nth-child(2) {
+  color: rebeccapurple;
+}
+*/
+
+/* Styling link */
+
+a:link {
+  text-decoration: none;
+  font-size: px;
+  color: #1098ad;
+}
+
+a:visited {
+  color: #1098ad;
+}
+a:hover {
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline orangered;
+}
+a:active {
+  background-color: black;
+  font-style: italic;
+}

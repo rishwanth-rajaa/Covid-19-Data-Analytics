@@ -1,0 +1,30 @@
+Body {
+  border: solid 4px black;
+  font-family: sans-serif;
+}
+
+.header-text {
+  font-size: 22px;
+  text-align: center;
+  background-color: #f7f7f7;
+  text-transform: uppercase;
+}
+
+.all-cap {
+  text-transform: uppercase;
+}
+button {
+  background-color: black;
+  color: aliceblue;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: aliceblue;
+  color: black;
+  border: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
